@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 3}
   m_MinSize: {x: 875, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 88
+  controlID: 97
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -298,7 +298,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AurynSky/Dungeon Pack/Materials
+    - Assets/AurynSky/Dungeon Pack/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -308,16 +308,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 35
   m_LastFolders:
-  - Assets/AurynSky/Dungeon Pack/Materials
+  - Assets/AurynSky/Dungeon Pack/Scenes
   m_LastFoldersGridSize: 35
   m_LastProjectPath: C:\Users\ernes\Desktop\AD25\agents\TC2008B\TC2008B
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70ba0000
-    m_LastClickedID: 47728
-    m_ExpandedIDs: 0000000044b9000046b9000048b9000000ca9a3bffffff7f
+    m_SelectedIDs: 46bd0000
+    m_LastClickedID: 48454
+    m_ExpandedIDs: 000000001cbc00001ebc000020bc000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -346,7 +346,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000044b9000046b9000048b90000
+    m_ExpandedIDs: 000000001cbc00001ebc000020bc0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -372,9 +372,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 82be0000
-    m_LastClickedInstanceID: 48770
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: faccffff
+    m_LastClickedInstanceID: -13062
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -737,7 +737,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 1
       containerId: overlay-container--right
-      displayed: 1
+      displayed: 0
       id: Scene View/Particles
       index: 6
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -986,9 +986,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 15.587455, y: 8.475688, z: -3.7397113}
+    m_Target: {x: 20.188887, y: 2.5108538, z: -10.133939}
     speed: 2
-    m_Value: {x: 15.587455, y: 8.475688, z: -3.7397113}
+    m_Value: {x: 20.188887, y: 2.5108538, z: -10.133939}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1026,7 +1026,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -1034,13 +1034,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0.5889492, y: -0.03875355, z: 0.028291289, w: 0.8067453}
     speed: 2
-    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Value: {x: 0.58898234, y: -0.037785422, z: 0.027584523, w: 0.8067907}
   m_Size:
-    m_Target: 11.197644
+    m_Target: 18.626335
     speed: 2
-    m_Value: 11.197644
+    m_Value: 18.626335
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1113,9 +1113,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6477ffff
-      m_LastClickedID: -34972
-      m_ExpandedIDs: 4c57ffff3a64ffff348affffb68afffffe8affffcea8ffff0cb8ffffd2e0ffff32e1ffff0eeafffff4ebffff48ecffff10f1ffff9af1ffffe0f3ffffb2f7ffff14fbffff36af000012b30000
+      m_SelectedIDs: faccffff
+      m_LastClickedID: -13062
+      m_ExpandedIDs: faccffff06e2ffffdee3ffff14fbffff22ad000070af0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

@@ -236,7 +236,6 @@ class FireModel(Model):
 
     # Busca fuego o humo basado en la distancia Manhattan
     def get_nearest_hazard(self, pos):
-        """Busca fuego o humo"""
         hazards = [p for p, t in self.tiles.items() if t.fire > 0 or t.smoke > 0]
         if not hazards: return None
         return min(hazards, key=lambda p: abs(p[0]-pos[0]) + abs(p[1]-pos[1]))
@@ -452,3 +451,6 @@ def reset():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5001, debug=True)
+
+
+
